@@ -1,0 +1,38 @@
+#
+
+> Q's : 
+
+__________________________________________________________________________________________!
+
+#1
+
+-> How many "people" are there in each "department" ? (page 1) /
+
+-> Gender distribution by department (page 2) /
+
+-> Age spread of our staff (histogram) /
+
+-> Min / Max / Average salary in each department / 
+
+-> Top earners in each country /
+
+-> Performance Spread ( sort by column ) /
+
+-> Company growth trend / 
+
+-> Employee Filter (by starting letter) / 
+
+-> Performance vs Salary - is there any relationship? /
+
+-> India vs New Zealand - quick scorecard /
+
+
+__________________________________________________________________________________________!
+
+
+
+
+
+
+
+
